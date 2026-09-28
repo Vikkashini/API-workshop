@@ -1,0 +1,74 @@
+{
+  "users": [
+    {
+      "id": 1,
+      "name": "Vikkashini",
+      "email": "vikkashini@example.com",
+      "age": 20,
+      "course": "AI&ML"
+    },
+    {
+      "id": 2,
+      "name": "Arun",
+      "email": "arun@example.com",
+      "age": 21,
+      "course": "CSE"
+    },
+    {
+      "id": 3,
+      "name": "Priya",
+      "email": "priya@example.com",
+      "age": 20,
+      "course": "ECE"
+    },
+    {
+      "id": 4,
+      "name": "Karthik",
+      "email": "karthik@example.com",
+      "age": 22,
+      "course": "IT"
+    },
+    {
+      "id": 5,
+      "name": "Divya",
+      "email": "divya@example.com",
+      "age": 21,
+      "course": "CSE"
+    },
+    {
+      "id": 6,
+      "name": "Rahul",
+      "email": "rahul@example.com",
+      "age": 23,
+      "course": "AI&ML"
+    },
+    {
+      "id": 7,
+      "name": "Ananya",
+      "email": "ananya@example.com",
+      "age": 20,
+      "course": "ECE"
+    },
+    {
+      "id": 8,
+      "name": "Sanjay",
+      "email": "sanjay@example.com",
+      "age": 22,
+      "course": "MECH"
+    },
+    {
+      "id": 9,
+      "name": "Keerthana",
+      "email": "keerthana@example.com",
+      "age": 21,
+      "course": "AI&ML"
+    },
+    {
+      "id": 10,
+      "name": "Vijay",
+      "email": "vijay@example.com",
+      "age": 24,
+      "course": "CIVIL"
+    }
+  ]
+}
