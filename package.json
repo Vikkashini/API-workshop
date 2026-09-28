@@ -5,6 +5,6 @@
     "start": "node server.js"
   },
   "dependencies": {
-    "json-server": "latest"
+    "json-server": "^1.0.0"
   }
 }
